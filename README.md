@@ -10,7 +10,7 @@
 - cd task_tracker_cli
 
 # Запуск:
-- python -m task_traker_cli <command> <flag>
+- python -m task_traker_cli [command] [flag]
 
 
 # Использование
