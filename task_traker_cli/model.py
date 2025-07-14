@@ -1,7 +1,6 @@
 # Функционал моего приложение / работа с бд
 import datetime
 import sqlite3
-from typing import List # Для предупреждения ошибок типов данных
 
 class Todo:
   
