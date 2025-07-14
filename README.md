@@ -26,14 +26,14 @@ list: Список всех задач
 - python -m task_traker_cli list
 
 list: Список всех задач по статусу
-- python -m task_traker_cli list --status <status>
+- python -m task_traker_cli list --status [status]
 
 update: Обновить задачу
-- python -m task_traker_cli update <id> <description>
+- python -m task_traker_cli update [id] [description]
 
 mark: изменить статус задачи
-- python -m task_traker_cli marking <id> <status>
+- python -m task_traker_cli marking [id] [status]
 
 delete: Удалить задачу
-- python -m task_traker_cli delete <id>
+- python -m task_traker_cli delete [id]
 
