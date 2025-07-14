@@ -18,7 +18,7 @@
 
 add: Добавить новую задачу
 
-- python -m task_traker_cli add <description> --status <status>
+- python -m task_traker_cli add [description] --status <status>
 
 * status необязателен, по умолчанию todo. Принимает значения: todo, done, in-progress
 
